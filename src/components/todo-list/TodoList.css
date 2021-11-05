@@ -1,0 +1,6 @@
+ul > li {
+  border: 1px solid #c2d5a8;
+  padding: 10px;
+  margin: 10px;
+  list-style-type: none;
+}
